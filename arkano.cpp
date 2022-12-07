@@ -8,3 +8,16 @@
 #include <fstream>
 
 using namespace std;
+
+#define width 1024
+#define height 740
+
+int delay=100;
+
+int main()
+{
+
+
+}
+
+END_OF_MAIN();
