@@ -19,6 +19,7 @@ int score=0;
 bool StartedGame=false;
 bool GameOver=false;
 bool NextLevel=false;
+bool Gaming=false;
 int DirY=-1;
 int DirX=1;
 int Speed=3;
