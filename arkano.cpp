@@ -27,7 +27,25 @@ int InitialSpeed=3;
 int BackgroundNumber=1;
 bool Dead=false;
 int DeadSequence=1;
+//bool Music=true;
+bool Efects=true;
+bool FileExistent=false;
+int HighScore=0;
 
+int BaseX=255;
+int BallX=295;
+int BallY=650;
+
+int Map[63];
+
+int LeftCorner;
+int RightCorner;
+
+int ColumnBall;
+int RowBall;
+int Element;
+
+int RowBall[]=[20,50,80,110,140,170,200];
 
 int main()
 {
