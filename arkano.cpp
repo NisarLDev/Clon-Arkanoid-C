@@ -12,6 +12,38 @@ using namespace std;
 #define width 1024
 #define height 740
 
+
+
+
+
+
+BITMAP *Buffer;
+BITMAP *Logo;
+BITMAP *Panel;
+BITMAP *Frame;
+BITMAP *Background1;
+BITMAP *Background2;
+BITMAP *Background3;
+BITMAP *Background4;
+BITMAP *GameOver;
+BITMAP *Block1;
+BITMAP *Block2;
+BITMAP *Block3;
+BITMAP *Block4;
+BITMAP *Block5;
+BITMAP *Block6;
+BITMAP *Block7;
+BITMAP *Block8;
+BITMAP *buffer;
+BITMAP *Base1;
+BITMAP *Base2;
+BITMAP *Base3;
+BITMAP *Base4;
+
+
+
+
+
 int delay=100;
 int lives=5;
 int level=1;
