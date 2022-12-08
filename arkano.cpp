@@ -47,6 +47,7 @@ int Element;
 
 int RowBall[]=[20,50,80,110,140,170,200];
 
+
 int main()
 {
 
